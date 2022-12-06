@@ -6,6 +6,8 @@ Contenidos
 - [Entorno LliureX](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Entorno+LliureX&structure=Documentaci%C3%B3n&page_ref_id=511)
 - [Infraestructura](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Infraestructura&structure=Documentaci%C3%B3n&page_ref_id=518)
 - [LliureX 21](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=LliureX+21.&structure=Documentaci%C3%B3&page_ref_id=972)
+  - [Información LliureX 21](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Informaci%C3%B3n+LliureX+21&structure=LliureX21&page_ref_id=973)
+    - [Instalación de modelo de centro paso a paso en LliureX 21](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Instalaci%C3%B3n+de+modelo+de+centro+paso+a+paso+en+LliureX++21&structure=Documentaci%C3%B3n&page_ref_id=1104)  
   - [Administración LliureX 21](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Administraci%C3%B3n+LliureX+21&structure=LliureX21&page_ref_id=982) 
 - [LliureX 19](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=LliureX19.&structure=Documentaci%C3%B3&page_ref_id=524)
 - [Otras versiones](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Otras+versiones&structure=Documentaci%C3%B3n&page_ref_id=762)
