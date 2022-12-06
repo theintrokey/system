@@ -1,6 +1,6 @@
 # lliurex
 
-[help .md](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+> [help .md](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [**Bienvenidos a la wiki de LliureX**](https://wiki.edu.gva.es/lliurex/tiki-index.php)
 
