@@ -2,7 +2,7 @@
 
 [**Bienvenidos a la wiki de LliureX**](https://wiki.edu.gva.es/lliurex/tiki-index.php)
 
-- [**Versiones de LliureX**](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Versiones+de+LliureX&highlight=ligero)
+Antes de comenzar la instalación, es necesario descargar la imagen correspondiente a la versión de la adaptación LliureX Servidor desde el apartado de [descargas de la web de LliureX.](https://portal.edu.gva.es/lliurex/es/descargas/)
 
 ### Contenidos
 - [Entorno LliureX](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Entorno+LliureX&structure=Documentaci%C3%B3n&page_ref_id=511)
