@@ -4,7 +4,7 @@
 
 - [**Versiones de LliureX**](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Versiones+de+LliureX&highlight=ligero)
 
-## Contenidos
+### Contenidos
 - [Entorno LliureX](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Entorno+LliureX&structure=Documentaci%C3%B3n&page_ref_id=511)
 - [Infraestructura](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Infraestructura&structure=Documentaci%C3%B3n&page_ref_id=518)
   - [Modelo de centro](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Modelo+de+centro&structure=Documentaci%C3%B3n&page_ref_id=760)
