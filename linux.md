@@ -5,6 +5,10 @@
 Contenidos
 - [Entorno LliureX](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Entorno+LliureX&structure=Documentaci%C3%B3n&page_ref_id=511)
 - [Infraestructura](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Infraestructura&structure=Documentaci%C3%B3n&page_ref_id=518)
+  - [Modelo de centro](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Modelo+de+centro&structure=Documentaci%C3%B3n&page_ref_id=760)
+  - [Montar modelo de centro](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Montar+modelo+de+centro&structure=Documentaci%C3%B3n&page_ref_id=761)
+  - [Rangos de IPs y DHCP](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Rangos+de+IPs+y+DHCP&structure=Documentaci%C3%B3n&page_ref_id=522)
+  - [Instalación del aula](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Instalaci%C3%B3n+del+aula&structure=Documentaci%C3%B3n&page_ref_id=523)
 - [LliureX 21](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=LliureX+21.&structure=Documentaci%C3%B3&page_ref_id=972)
   - [Información LliureX 21](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Informaci%C3%B3n+LliureX+21&structure=LliureX21&page_ref_id=973)
     - [Instalación de modelo de centro paso a paso en LliureX 21](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Instalaci%C3%B3n+de+modelo+de+centro+paso+a+paso+en+LliureX++21&structure=Documentaci%C3%B3n&page_ref_id=1104)
