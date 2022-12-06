@@ -11,12 +11,12 @@ Para ejecutar los siguientes comandos, debe ejecutar Windows 10 versión 2004 y 
 [Bienvenidos a la wiki de LliureX](https://wiki.edu.gva.es/lliurex/tiki-index.php)
 
 Contenidos
- [Entorno LliureX]()
- [Infraestructura]()
- [LliureX 21]()
- [LliureX19]()
- [Otras versiones]()
- [Recetas]()
- [Documentación técnica]()
-  [Buenas practicas de programacion]()
+- [Entorno LliureX]()
+- [Infraestructura]()
+- [LliureX 21]()
+- [LliureX19]()
+- [Otras versiones]()
+- [Recetas]()
+- [Documentación técnica]()
+- [Buenas practicas de programacion]()
  
