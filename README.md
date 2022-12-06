@@ -1,5 +1,7 @@
 # SO
 
+Este repositorio contiene apuntes y enlaces con información relevante para el corpus de SISTEMAS Y APLICACIONES INFORMÁTICAS.
+
 ## Windows
 
 ### Subsistema de Windows para Linux (WSL) > [Instalación de Linux en Windows con WSL](https://learn.microsoft.com/es-es/windows/wsl/install)
