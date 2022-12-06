@@ -1,8 +1,8 @@
 # lliurex
 
-[**Versiones de LliureX**](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Versiones+de+LliureX&highlight=ligero)
-
 [**Bienvenidos a la wiki de LliureX**](https://wiki.edu.gva.es/lliurex/tiki-index.php)
+
+- [**Versiones de LliureX**](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Versiones+de+LliureX&highlight=ligero)
 
 ## Contenidos
 - [Entorno LliureX](https://wiki.edu.gva.es/lliurex/tiki-index.php?page=Entorno+LliureX&structure=Documentaci%C3%B3n&page_ref_id=511)
