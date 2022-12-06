@@ -1,6 +1,7 @@
 # lliurex
 
 > [help .md](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+> the [Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 [**Bienvenidos a la wiki de LliureX**](https://wiki.edu.gva.es/lliurex/tiki-index.php)
 
