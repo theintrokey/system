@@ -5,6 +5,9 @@ Este repositorio contiene apuntes y enlaces con información relevante para el c
 - [Windows](./windows.md)
 - [Linux](./linux.md)
 
+
+
+
 ---
 
 > [Ayuda con Markdown .md](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
