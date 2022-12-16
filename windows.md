@@ -1,6 +1,13 @@
 # Windows
+
+## Medios de instalación
+
+[Crear medios de instalación de Windows](https://support.microsoft.com/es-es/windows/crear-medios-de-instalaci%C3%B3n-de-windows-99a58364-8c02-206f-aa6f-40c3b507420d)
+
+
 ## Windows 11
 
+### Instalación de Windows 11 cuando el procesador no está entre los elegidos.
 **Entradas de registro**
 ```
 Windows Registry Editor Version 5.00
