@@ -1,6 +1,15 @@
 # Windows
 https://www.microsoft.com/software-download/
 
+## Manual de instalación de Windows 11 o MacOS
+
+Opción 1: Microsoft_Azure_Education -> https://portal.azure.com/#view/Microsoft_Azure_Education/EducationMenuBlade/~/software
+
+Opción 2: Windows 11 -> https://developer.microsoft.com/es-es/windows/downloads/virtual-machines/
+
+Opción 3: MacOS -> https://support.apple.com/es-es/HT201372
+
+
 ## Medios de instalación
 
 [Crear medios de instalación de Windows](https://support.microsoft.com/es-es/windows/crear-medios-de-instalaci%C3%B3n-de-windows-99a58364-8c02-206f-aa6f-40c3b507420d)
