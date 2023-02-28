@@ -45,6 +45,7 @@ Por defecto los archivos .msc estan en Windows\System32.
 Podemos ejecutar qualquier archivo .msc pulsando Windows-R y escribiendo el nombre del archivo msc y la extensión y pulsando la tecla Enter del teclado. Ej: perfmon.msc
 
 ### Lista de archivos MSC para cualquier Windows
+http://www.auditiait.es/lista-de-consolas-msc/
 .MSC file
 Console	Description
 azman.msc	Authorization Manager	Manage Authorization Stores
